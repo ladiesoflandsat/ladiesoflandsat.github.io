@@ -1,6 +1,6 @@
 # main links links
 main:
-   - title: "Manuscript Monday"
+  - title: "Manuscript Monday"
     url: /publications/
 
   - title: "Talks and Panels"
@@ -9,9 +9,6 @@ main:
   - title: "Events"
     url: /teaching/    
     
-#   - title: "Portfolio"
-#   url: /portfolio/
-        
   - title: "Articles and Blogs"
     url: /year-archive/
     

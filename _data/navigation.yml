@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
+   - title: "Manuscript Monday"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks and Panels"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Events"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#   - title: "Portfolio"
+#   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Articles and Blogs"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "USGS User Case Studies"
+    url: /portfolio/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "USGS User Case Studies"
+    url: /portfolio/
+
+    

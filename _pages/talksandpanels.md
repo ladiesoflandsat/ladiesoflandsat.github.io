@@ -2,8 +2,7 @@
 permalink: /talksandpanels/
 title: "Talks and Panels"
 author_profile: true
-redirect_from: 
-  - /talksandpanels/
+
 ---
 
 # **AGU 2022 Google Booth**

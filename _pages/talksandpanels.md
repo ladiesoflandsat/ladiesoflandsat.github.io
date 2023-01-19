@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /talksandpanels/
 title: "Talks and Panels"
 author_profile: true
 redirect_from: 

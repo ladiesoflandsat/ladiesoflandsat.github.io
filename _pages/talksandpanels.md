@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Talks and Panels"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /talksandpanels/

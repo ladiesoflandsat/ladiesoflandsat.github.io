@@ -10,7 +10,7 @@ main:
     url: /events/    
     
   - title: "Articles and Blogs"
-    url: /year-archive/
+    url: /articles/
     
   - title: "USGS User Case Studies"
     url: /casestudies/

@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-# **AGU 2022 Google Booth**
+## **AGU 2022 Google Booth**
 *December 2022*\
 Speakers: Matilda Anokya and Sarah Schenkein\
 Support: Kate Fickas\

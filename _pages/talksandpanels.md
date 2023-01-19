@@ -11,5 +11,5 @@ redirect_from:
 *December 2022*\
 Speakers: Matilda Anokya and Sarah Schenkein\
 Support: Kate Fickas\
-![network image](https://github.com/ladiesoflandsat/ladiesoflandsat.github.io/blob/gh-pages/images/AGU2022talk.jpg)
+![network image](https://raw.githubusercontent.com/ladiesoflandsat/ladiesoflandsat.github.io/gh-pages/images/AGU2022talk.jpg)
 
